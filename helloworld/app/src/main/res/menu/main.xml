@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/qes"
+            android:title="问题"
+        />
+    <item
+            android:id="@+id/danwei"
+            android:title="长度换算"
+        />
+    <item
+            android:id="@+id/zhongliang"
+            android:title="重量换算"
+        />
+    <item
+            android:id="@+id/tiji"
+            android:title="体积换算"
+        />
+    <item
+        android:id="@+id/shijian"
+        android:title="时间换算"
+        />
+    <item
+        android:id="@+id/jinzhi"
+        android:title="进制转换"
+        />
+    <item
+            android:id="@+id/exit"
+            android:title="退出"
+        />
+</menu>
